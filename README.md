@@ -1,3 +1,7 @@
+# Ricart-Agrawala Distributed Mutual Exclusion Algorithm
+
+## Compilation
+```sh
 gcc -o print print.c
 
 gcc -o node node.c
